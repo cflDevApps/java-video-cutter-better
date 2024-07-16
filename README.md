@@ -5,6 +5,8 @@ A small command line Java application for cutting video files into smaller parts
 ## Requirements
 
 To use the application, you must install **ffmpeg** to your computer, and add it to the PATH environment variable!
+https://www.gyan.dev/ffmpeg/builds/
+
 
 ## Compilation
 
